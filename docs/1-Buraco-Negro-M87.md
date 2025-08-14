@@ -8,10 +8,10 @@ M87* é o buraco negro supermassivo localizado no núcleo da galáxia elíptica 
 ### Massa e Escalas de Comprimento  
 - **Massa**: \( 6.5 \pm 0.7 \times 10^9 M_{\odot} \) (EHT Collaboration 2019)  
   - Equivalente a \( 1.29 \times 10^{40} \) kg  
-- **Raio de Schwarzschild**:  
-  ```
-  R_s = \frac{2GM}{c^2} \approx 1.92 \times 10^{13} \text{ m} (~120 \text{ UA})
-  ```  
+## Parâmetros Observacionais
+
+### Raio de Schwarzschild  
+![Equação](https://latex.codecogs.com/png.latex?R_s%20%3D%20%5Cfrac%7B2GM%7D%7Bc%5E2%7D%20%5Capprox%201.92%20%5Ctimes%2010%5E%7B13%7D%20%5Ctext%7B%20m%7D)  
 - **Tempo de Cruzamento de Luz**:  
   ```
   \tau = \frac{R_s}{c} \approx 2.21 \text{ dias}
